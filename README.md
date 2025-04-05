@@ -13,4 +13,4 @@ My data science and analytics projects
 reach out to me at anuphong3502@gmail.com
 
 ## Image
-![Deadpool](![image](https://github.com/user-attachments/assets/ec3518b9-f318-4dd2-87ff-6568b78d9651)
+![Deadpool]([image](https://github.com/user-attachments/assets/ec3518b9-f318-4dd2-87ff-6568b78d9651)
